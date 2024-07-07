@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from './Task Flow.png';
+import logo from '../img/Task Flow.png';
 
 const Login = ({ handleLogin }) => {
   const [email, setEmail] = useState('');

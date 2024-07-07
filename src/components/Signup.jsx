@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import logo from './Task Flow.png';
+import logo from '../img/Task Flow.png';
 
 const Signup = ({ handleSignup }) => {
   const [email, setEmail] = useState('');
